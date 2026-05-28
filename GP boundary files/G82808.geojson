@@ -1,0 +1,33 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "G82808",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ 0.364486971, 51.4336779828 ],
+						[ 0.3589968822, 51.4168730481 ],
+						[ 0.406559994, 51.4043459924 ],
+						[ 0.3990100016, 51.432180006 ],
+						[ 0.364486971, 51.4336779828 ]
+					]
+				]
+			},
+			"properties" : {
+				"ODSCode" : "G82808",
+				"Name" : "OAKFIELD HEALTH CENTRE, PRACTICE 2",
+				"ICBCode" : "QKS",
+				"Region" : "Y59",
+				"stroke-opacity" : "1.0",
+				"stroke-width" : "2.0",
+				"fill-opacity" : "0",
+				"OBJECTID" : 1295,
+				"stroke" : "#0000ff",
+				"fill" : "#555555"
+			}
+		}
+	]
+}

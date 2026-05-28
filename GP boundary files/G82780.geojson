@@ -1,0 +1,35 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "G82780",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ 0.3568608847, 51.4452739128 ],
+						[ 0.3441959306, 51.4241800286 ],
+						[ 0.3871090571, 51.4114679498 ],
+						[ 0.4219650075, 51.4289930026 ],
+						[ 0.427307989, 51.442150997 ],
+						[ 0.4233639876, 51.4476989881 ],
+						[ 0.3568608847, 51.4452739128 ]
+					]
+				]
+			},
+			"properties" : {
+				"ODSCode" : "G82780",
+				"Name" : "GRAVESEND MEDICAL CENTRE",
+				"ICBCode" : "QKS",
+				"Region" : "Y59",
+				"stroke-opacity" : "1.0",
+				"stroke-width" : "2.0",
+				"fill-opacity" : "0",
+				"OBJECTID" : 4623,
+				"stroke" : "#0000ff",
+				"fill" : "#555555"
+			}
+		}
+	]
+}
